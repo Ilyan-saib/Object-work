@@ -27,7 +27,17 @@ border-bottom: 1px solid #6b6b6b;
 
 
 .titre {
+  position: absolute;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  padding-top: -10vh;
   padding-left: 2%;
   font-size: xx-large;
+}
+
+.subtitle{
+  display: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  font-size: large;
+padding-top: 10%;
+padding-left: 5%;
 }
