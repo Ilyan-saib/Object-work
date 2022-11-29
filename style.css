@@ -1,0 +1,33 @@
+#general {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12vh;
+  width: 800px;
+
+  background-color: red;
+  box-shadow: 0px 0px 12px 1px #4D4D4D;
+}
+
+
+
+.sect {
+  display: flex;
+  width: 800px;
+  height: 100px;
+border-bottom: 1px solid #6b6b6b;
+  background-color: white;
+  cursor: pointer;
+
+}
+
+.sect:hover {
+  background-color: rgb(230, 230, 230);
+
+}
+
+
+.titre {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  padding-left: 2%;
+  font-size: xx-large;
+}
